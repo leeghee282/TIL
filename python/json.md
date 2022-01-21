@@ -28,4 +28,3 @@ movie = json.load(movie_json)
 ```
 
 
-
